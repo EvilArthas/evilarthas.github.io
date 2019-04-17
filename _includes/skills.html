@@ -9,8 +9,14 @@
     </span>
     {{ skills.title }}
   </h2>
+  
+  {% if skills.toolset %}
+  <div class="details">
+    {{ skills.toolset | markdownify }}
+  </div><!--//details-->
+  {% endif %}
 
-  <div class="skillset">
+  <!-- <div class="skillset">
 
     {% for skill in skills.toolset %}
     <div class="item">
@@ -20,12 +26,12 @@
       <div class="level-bar">
         <div class="level-bar-inner" data-level="{{ skill.level }}">
         </div>
-      </div><!--//level-bar-->
+      </div>
 
-    </div><!--//item-->
+    </div>
     {% endfor %}
 
-  </div>
+  </div> -->
 
 </section><!--//skills-section-->
 {% endif %}
