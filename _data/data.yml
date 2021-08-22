@@ -24,9 +24,9 @@ sidebar:
         level: Pre-Intermediate
 
     interests: |
-        Highload
-        Concurrency
-        Microservices
+        - Highload
+        - Concurrency
+        - Microservices
 
 career-profile:
     title: Резюме
@@ -58,12 +58,12 @@ skills:
     title: Текущий стэк
 
     toolset: |
-        Java 8
-        MySQL5, Hibernate
-        Netty, GRpc, Kafka, Log4j2
-        JUnit, Mockito
-        TeamCity, Ant :)
-        Kibana, Git, IntelliJ IDEA, Youtrack, Upsource
+        - Java 8
+        - MySQL5, Hibernate
+        - Netty, GRpc, Kafka, Log4j2
+        - JUnit, Mockito
+        - TeamCity, Ant :)
+        - Kibana, Git, IntelliJ IDEA, Youtrack, Upsource
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
