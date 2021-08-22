@@ -14,9 +14,7 @@ sidebar:
     # Sidebar links
     email: protracer@mail.ru
     phone: 89610081581
-    address: Кострома
     github: EvilArthas
-    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: Русский
@@ -25,10 +23,10 @@ sidebar:
       - idiom: English
         level: Pre-Intermediate
 
-    interests: |
-      - Highload
-      - Concurrency
-      - Microservices
+    interests: 
+        - item: Highload
+        - item: Concurrency
+        - item: Microservices
 
 career-profile:
     title: Резюме
@@ -59,13 +57,13 @@ experiences:
 skills:
     title: Текущий стэк
 
-    toolset: |
-      - Java 8
-      - MySQL5, Hibernate
-      - Netty, GRpc, Kafka, Log4j2
-      - JUnit, Mockito
-      - TeamCity, Ant :)
-      - Kibana, Git, IntelliJ IDEA, Youtrack, Upsource
+    toolset: 
+        - name: Java 8
+        - name: MySQL5, Hibernate
+        - name: Netty, GRpc, Kafka, Log4j2
+        - name: JUnit, Mockito
+        - name: TeamCity, Ant :)
+        - name: Kibana, Git, IntelliJ IDEA, Youtrack, Upsource
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
