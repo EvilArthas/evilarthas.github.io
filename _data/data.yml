@@ -43,7 +43,7 @@ education:
       time: 2009-2015
 
 experiences:
-    - role: Senior Java Developer
+    - role: Java Developer
       time: 2015 - 2019
       company: Gear Games
       website: aow3.gear-games.com
@@ -53,7 +53,6 @@ experiences:
           - Разработка инфраструктурных модулей
           - Мониторинг ошибок
           - Оптимизация SQL-запросов, устранение утечек, поиск узких мест
-          - Взаимодействие с подчиненными, организация рабочего процесса посредством таск-менеджера. Код-ревью
     - role: Senior Java Developer
       time: 2019 - Настроящее время
       company: Gear Games
@@ -64,6 +63,7 @@ experiences:
           - Реализация сборки и развертки кластера
           - Создание и настройка метрик
           - Нагрузочное тестирование
+          - Менторство, код-ревью
 
 skills:
     title: Текущий стэк
