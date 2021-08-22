@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Dmitry Ivanov's Resume
-url: 'http://evilarthas.github.io'
+url: 'https://evilarthas.github.io'
 baseurl: '/evilarthas.github.io' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
