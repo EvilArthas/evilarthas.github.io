@@ -8,13 +8,14 @@ sidebar:
 
     # Profile information
     name: Иванов Дмитрий
-    tagline: Java Developer
+    tagline: Senior Java Developer
     avatar: profile_new.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: protracer@mail.ru
-    phone: 89610081581
+    phone: +79610081581
     github: EvilArthas
+    linkedin: linkedin.com/in/dmitry-ivanov-6822889b
 
     languages:
       - idiom: Русский
@@ -29,41 +30,48 @@ sidebar:
         - Microservices
 
 career-profile:
-    title: Резюме
+    title: Общая информация
     summary: |
-      <b>Информация обо мне:</b><br>
-      Молодой, перспективный тыжпрограммист, 27 лет от роду. 
+      Молодой, перспективный тыжпрограммист, 29 лет от роду.
       На текущий момент живу и работаю в жемчужине Золотого кольца России - городе Кострома.
-      Ищу работу в области высоконагруженных систем. Игровая индустрия это будет или же вэб - значения не имеет.
-      Возможен переезд.
+      Интересна сфера высоконагруженных систем. Игровая индустрия это будет или же вэб - значения не имеет.
+      Предпочтительней удаленная работа.
       
 education:
     - degree: Прикладная математика и информатика
       university: КГУ им. Н.А. Некрасова
       time: 2009-2015
+
 experiences:
-    - role: Java Developer
+    - role: Senior Java Developer
       time: 2015 - Настоящее время
       company: Gear Games
       website: aow3.gear-games.com
       details: |
-        Работа над MMORTS <a href="https://play.google.com/store/apps/details?id=com.geargames.aow" target="_blank">Art of War 3</a>. Используемые языки: Java.
-          - Создание и сопровождение сервисов балансировки нагрузки, служебного(rest-api) и клиентского(tcp-socket) порта, динамической конфигурации и горячей замены байт-кода
-          - Проработка и реализация взаимодействия с клиентом, создание фич (рейтинги, биллинг, достижения, система уведомлений)
-          - Взаимодействие с подчиненными, организация рабочего процесса посредством таск-менеджера
-          - Оптимизация SQL-запросов, создание асинхронных запросов, конкурентный доступ к данным, анализ хип-дампов на предмет утечек и блокировок
-          - Организованный сбор эвентов и метрик, настройка дашбордов в кибане, логгирование
+        Работа над MMORTS <a href="https://play.google.com/store/apps/details?id=com.geargames.aow" target="_blank">Art of War 3</a>.
+          - Создание и сопровождение модулей бизнес-логики
+          - Разработка инфраструктурных модулей
+          - Мониторинг ошибок
+          - Оптимизация SQL-запросов, устранение утечек, поиск узких мест
+          - Взаимодействие с подчиненными, организация рабочего процесса посредством таск-менеджера. Код-ревью
+        Работа над новым проектом.
+          - Проектирование распределенной архитектуры кластера
+          - Реализация сборки и развертки кластера
+          - Создание и настройка метрик
+          - Нагрузочное тестирование
 
 skills:
     title: Текущий стэк
 
     toolset: |
-        - Java 8
-        - MySQL5, Hibernate
-        - Netty, GRpc, Kafka, Log4j2
+        - Java 11
+        - Spring Boot
+        - PostgreSQL, Redis
+        - Reactor, GRpc, Kafka
+        - ELK, Prometheus, Grafana
+        - Gradle, Docker, Consul
         - JUnit, Mockito
-        - TeamCity, Ant :)
-        - Kibana, Git, IntelliJ IDEA, Youtrack, Upsource
+        - Git, Intellij IDEA
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
