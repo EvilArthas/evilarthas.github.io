@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: protracer@mail.ru
-    phone: +79610081581
+    phone: 89610081581
     github: EvilArthas
     linkedin: linkedin.com/in/dmitry-ivanov-6822889b
 
@@ -44,7 +44,7 @@ education:
 
 experiences:
     - role: Senior Java Developer
-      time: 2015 - Настоящее время
+      time: 2015 - 2019
       company: Gear Games
       website: aow3.gear-games.com
       details: |
@@ -54,6 +54,10 @@ experiences:
           - Мониторинг ошибок
           - Оптимизация SQL-запросов, устранение утечек, поиск узких мест
           - Взаимодействие с подчиненными, организация рабочего процесса посредством таск-менеджера. Код-ревью
+    - role: Senior Java Developer
+      time: 2019 - Настроящее время
+      company: Gear Games
+      website: aow3.gear-games.com
       details: |
         Работа над новым проектом.
           - Проектирование распределенной архитектуры кластера
