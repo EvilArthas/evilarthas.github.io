@@ -48,9 +48,9 @@ experiences:
     - role: Java Developer
       time: 2015 - 2019
       company: Gear Games
-      website: aow3.gear-games.com
+      website: geargames.org/en/
       details: |
-        Работа над MMORTS <a href="https://play.google.com/store/apps/details?id=com.geargames.aow" target="_blank">Art of War 3</a>.
+        Работа над MMORTS <a href="https://aow3.gear-games.com/?l=en" target="_blank">Art of War 3</a>.
           - Создание и сопровождение модулей бизнес-логики
           - Разработка инфраструктурных модулей
           - Мониторинг ошибок
@@ -58,9 +58,9 @@ experiences:
     - role: Senior Java Developer
       time: 2019 - Настроящее время
       company: Gear Games
-      website: https://warlegends.geargames.org
+      website: geargames.org/en/
       details: |
-        Работа над MMORTS <a href="https://play.google.com/store/apps/details?id=com.geargames.warlegends.rts.strategy.game" target="_blank">War Legends</a>.
+        Работа над MMORTS <a href="https://warlegends.geargames.org/en/" target="_blank">War Legends</a>.
           - Проектирование гео-распределенной архитектуры кластера
           - Реализация сборки и развертки кластера
           - Создание и настройка метрик
