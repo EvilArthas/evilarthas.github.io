@@ -13,8 +13,9 @@ sidebar:
 
     # Sidebar links
     email: protracer@mail.ru
-    phone: 89610081581
+    telegram: Protracer
     github: EvilArthas
+    linkedin: dmitry-ivanov-6822889b
 
     languages:
       - idiom: Русский
@@ -27,11 +28,13 @@ sidebar:
         - Highload
         - Concurrency
         - Microservices
+        - Optimizations
+        - Troubleshooting
 
 career-profile:
     title: Общая информация
     summary: |
-      Молодой, перспективный тыжпрограммист, 29 лет от роду.
+      Молодой, перспективный тыжпрограммист, 30 лет от роду.
       На текущий момент живу и работаю в жемчужине Золотого кольца России - городе Кострома.
       Интересна сфера высоконагруженных систем. Игровая индустрия это будет или же вэб - значения не имеет.
       Предпочтительней удаленная работа.
@@ -51,30 +54,32 @@ experiences:
           - Создание и сопровождение модулей бизнес-логики
           - Разработка инфраструктурных модулей
           - Мониторинг ошибок
-          - Оптимизация SQL-запросов, устранение утечек, поиск узких мест
+          - Оптимизация SQL-запросов, устранение утечек памяти, поиск узких мест
     - role: Senior Java Developer
       time: 2019 - Настроящее время
       company: Gear Games
-      website: aow3.gear-games.com
+      website: https://warlegends.geargames.org
       details: |
-        Работа над новым проектом.
-          - Проектирование распределенной архитектуры кластера
+        Работа над MMORTS <a href="https://play.google.com/store/apps/details?id=com.geargames.warlegends.rts.strategy.game" target="_blank">War Legends</a>.
+          - Проектирование гео-распределенной архитектуры кластера
           - Реализация сборки и развертки кластера
           - Создание и настройка метрик
           - Нагрузочное тестирование
+          - Профилирование
           - Менторство, код-ревью
 
 skills:
     title: Текущий стэк
 
     toolset: |
-        - Java 11
+        - Java 17
         - Spring Boot
-        - PostgreSQL, Redis
-        - Reactor, GRpc, Kafka
+        - PostgreSQL, MySQL, Redis, Tarantool
+        - Reactor, Netty, GRpc
         - ELK, Prometheus, Grafana
         - Gradle, Docker, Consul
         - JUnit, Mockito
+        - YouTrack, TeamCity, GitLab
         - Git, Intellij IDEA
 
 footer: >
