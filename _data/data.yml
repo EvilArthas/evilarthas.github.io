@@ -34,9 +34,11 @@ sidebar:
 career-profile:
     title: Общая информация
     summary: |
-      Молодой, перспективный тыжпрограммист, 30 лет от роду.
-      На текущий момент живу и работаю в жемчужине Золотого кольца России - городе Кострома.
-      Интересна сфера высоконагруженных систем. Игровая индустрия это будет или же вэб - значения не имеет.
+      Опытный Senior Java Developer с 9-летним опытом разработки сложных, высоконагруженных приложений и систем. 
+      Имею глубокие знания в области объектно-ориентированного программирования (ООП) и обширный опыт в проектировании и реализации распределённых систем. 
+      Эксперт в использовании фреймворков Spring, Hibernate, а также в микросервисной архитектуре и RESTful веб-сервисах. 
+      Успешно внедрял DevOps практики для обеспечения непрерывной интеграции и доставки (CI/CD), обладая достаточным уровнем понимания инструментов Docker и Kubernetes. 
+      Обладаю отличными коммуникативными и лидерскими навыками, что позволяет эффективно работать в команде и управлять проектами от этапа планирования до внедрения.
       Предпочтительней удаленная работа.
       
 education:
@@ -45,18 +47,21 @@ education:
       time: 2009-2015
 
 experiences:
-    - role: Java Developer
-      time: 2015 - 2019
-      company: Gear Games
-      website: geargames.org/en/
-      details: |
-        Работа над MMORTS <a href="https://aow3.gear-games.com/?l=en" target="_blank">Art of War 3</a>.
-          - Создание и сопровождение модулей бизнес-логики
-          - Разработка инфраструктурных модулей
-          - Мониторинг ошибок
-          - Оптимизация SQL-запросов, устранение утечек памяти, поиск узких мест
     - role: Senior Java Developer
-      time: 2019 - Настроящее время
+      time: 2023 - Настоящее время
+      company: Альфа-банк
+      website: alfabank.ru/
+      details: |
+        Работа над проектом "Реестры платежей для крупного и малого бизнеса".
+          - Поддержка и развитие существующего функционала
+          - Миграция пользователей из Альфа-Бизнес Онлайн в Новый Интернет Банк
+          - Масштабирование нагрузки
+          - Оптимизация узких мест
+          - Нагрузочное тестирование
+          - Работа в Scrum-команде
+    
+    - role: Senior Java Developer
+      time: 2019 - 2023
       company: Gear Games
       website: geargames.org/en/
       details: |
@@ -67,6 +72,17 @@ experiences:
           - Нагрузочное тестирование
           - Профилирование
           - Менторство, код-ревью
+          
+    - role: Java Developer
+      time: 2015 - 2019
+      company: Gear Games
+      website: geargames.org/en/
+      details: |
+        Работа над MMORTS <a href="https://aow3.gear-games.com/?l=en" target="_blank">Art of War 3</a>.
+          - Создание и сопровождение модулей бизнес-логики
+          - Разработка инфраструктурных модулей
+          - Мониторинг ошибок
+          - Оптимизация SQL-запросов, устранение утечек памяти, поиск узких мест
 
 skills:
     title: Текущий стэк
@@ -74,12 +90,12 @@ skills:
     toolset: |
         - Java 17
         - Spring Boot
-        - PostgreSQL, MySQL, Redis, Tarantool
+        - PostgreSQL, MySQL, Redis, Tarantool, MongoDB
         - Reactor, Netty, GRpc
         - ELK, Prometheus, Grafana
-        - Gradle, Docker, Consul
+        - Gradle, Docker, Consul, Kubernetes
         - JUnit, Mockito
-        - YouTrack, TeamCity, GitLab
+        - YouTrack, TeamCity, GitLab, JIRA, Bitbucket
         - Git, Intellij IDEA
 
 footer: >
