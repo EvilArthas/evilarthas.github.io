@@ -49,12 +49,12 @@ education:
 experiences:
     - role: Senior Java Developer
       time: 2023 - Настоящее время
-      company: Альфа-банк
+      company: Альфа-Банк
       website: alfabank.ru/
       details: |
         Работа над проектом "Реестры платежей для крупного и малого бизнеса".
           - Поддержка и развитие существующего функционала
-          - Миграция пользователей из Альфа-Бизнес Онлайн в Новый Интернет Банк
+          - Миграция пользователей из Альфа-Бизнес Онлайн в Новый Интернет-Банк
           - Масштабирование нагрузки
           - Оптимизация узких мест
           - Нагрузочное тестирование
@@ -91,7 +91,7 @@ skills:
         - Java 17
         - Spring Boot
         - PostgreSQL, MySQL, Redis, Tarantool, MongoDB
-        - Reactor, Netty, GRpc
+        - Reactor, Netty, GRpc, Kafka
         - ELK, Prometheus, Grafana
         - Gradle, Docker, Consul, Kubernetes
         - JUnit, Mockito
